@@ -14,7 +14,7 @@ $ python visualizer.py example.gv
 
 Given the example .yaml file provided, such a graph is generated:
 <p align="center">
-  <img src="https://github.com/benedictprintz/YAML-File-Graphviz-Visualizer/blob/master/example.png" width="500">
+  <img src="https://github.com/benedictprintz/YAML-File-Graphviz-Visualizer/blob/master/example.png" width="750">
 </p>
 
 
